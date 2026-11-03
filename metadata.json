@@ -1,0 +1,6 @@
+{
+  "name": "PythonCalc - Calculadora em Python",
+  "description": "Calculadora interativa completa em Python com modo gráfico, console REPL WebAssembly, gerador de códigos .py e biblioteca de scripts matemáticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
